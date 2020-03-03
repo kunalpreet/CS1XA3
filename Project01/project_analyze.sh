@@ -1,9 +1,15 @@
 #!/bin/bash
+<<<<<<< HEAD
+echo "write the directory"
+=======
 echo "write the directory press the '.' for current directory"
+>>>>>>> project01
 read WDIR
 cd "$WDIR"
 
 echo "write the argument number you want to test"
+<<<<<<< HEAD
+=======
 echo "enter 1 for fixme feature"
 echo "enter 2 for fileTypeCount feature"
 echo "enter 3 for findTag feature"
@@ -12,6 +18,7 @@ echo "enter 5 for BackupDelete feature"
 echo "enter 6 for CheckoutLastestMerge feature"
 echo "enter 7 for CustomFeature1"
 echo "enter 8 for CustomFeature2"
+>>>>>>> project01
 read feature
 
 FIXME(){
@@ -19,6 +26,16 @@ FIXME(){
                 rm fixme.log
         fi
         touch fixme.log
+<<<<<<< HEAD
+        for item in ./**
+        do
+                lastLine=$(tail -1 $item)
+                if [ -f $item ] ; then
+                        if [[ $lastLine == *"#FIXME"* ]] ; then
+                                echo "$item" >> fixme.log
+                        fi
+                fi
+=======
         for name in ./**
         do
 		if [ -f $name ] ; then
@@ -29,6 +46,7 @@ FIXME(){
                        		fi
                		fi
 		fi
+>>>>>>> project01
         done
 }
 
@@ -46,6 +64,20 @@ FILETYPECOUNT(){
 }
 
 findTag(){
+<<<<<<< HEAD
+echo "Enter the Tag (any single word)"
+read Tag
+
+files=$(find ../ -type f -name "*.py")
+if [ ! -f "$Tag.log" ] ; then
+	touch "$Tag.log"
+else
+	touch "$tag.log" > "$Tag.log"
+fi
+
+echo "$( grep -E '^#' $files | grep -w $Tag)" >> $Tag.log
+
+=======
 	echo "Enter the Tag (any single word)"
 	read Tag
 
@@ -186,6 +218,7 @@ CustomFeature1(){
 			fi
 		done
 	fi
+>>>>>>> project01
 }
 
 if [ "$feature" -eq 1 ] ; then
@@ -197,6 +230,8 @@ fi
 if [ "$feature" -eq 3 ] ; then
         findTag
 fi
+<<<<<<< HEAD
+=======
 if [ "$feature" -eq 4 ] ; then
 	FileSizeList
 fi
@@ -212,6 +247,7 @@ fi
 if [ "$feature" -eq 8 ] ; then
 	CustomFeature2
 fi
+>>>>>>> project01
 echo "finished"
 
 
