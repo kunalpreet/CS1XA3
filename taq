@@ -1,0 +1,72 @@
+[33mcommit 4b6cdd73270fb88f4230e30061d52b14b3d68b92[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b9f7745 354b946
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Mar 3 04:05:30 2020 +0000
+
+    Submitting Project 01 Part 2
+
+[33mcommit 354b9463b3315747426984e247e2aab4f25a1763[m[33m ([m[1;32mproject01[m[33m)[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Mar 3 04:02:58 2020 +0000
+
+    Submitting Project 01 Part 2
+
+[33mcommit b9f77455c5b9e71ed918d413243fc181f37ae321[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Sat Feb 15 01:41:08 2020 +0000
+
+    Submitting Project 01 Part 1
+
+[33mcommit 321a971f2b23b8a609b4cb40b1cae0f621a2179e[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Sat Feb 15 01:41:08 2020 +0000
+
+    I'm done with part 1
+
+[33mcommit a67ce65820412c534089281f04d5093c12052f09[m[33m ([m[1;31morigin/project01[m[33m)[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Wed Feb 12 01:22:46 2020 +0000
+
+    Initial Project01 Commit
+
+[33mcommit 9199f08c85db4ae1f8c6acbe0d8fcbf9375902fd[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Wed Feb 12 01:21:19 2020 +0000
+
+    Initial Project01 Commit
+
+[33mcommit 5260170d7cb6bac87b06dc5172d9a5972727b10f[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Jan 21 20:42:22 2020 +0000
+
+    added duck to file.txt
+
+[33mcommit b9ffdcb1bc61ea13bfd6369f4d673da33f009207[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Jan 21 20:39:02 2020 +0000
+
+    added cow to file file.txt
+
+[33mcommit a38b15f6dac70ff53105fa1802b283c9edf51a31[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Jan 21 20:38:18 2020 +0000
+
+    created neew file file2.txt
+
+[33mcommit d9092436a74a7739c054a5b914f48d7a1894d0cd[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Jan 21 20:36:10 2020 +0000
+
+    added butter chicken to file.txt
+
+[33mcommit ce05e05f67cae24525ae934423d654a5a1fc77b7[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Jan 21 20:32:44 2020 +0000
+
+    added new file file.txt
+
+[33mcommit 692dbff334b0c49e22fac8b1b6106ace35c13cde[m
+Author: Kunalpreet <mathak1@mcmaster.ca>
+Date:   Tue Jan 21 20:10:10 2020 +0000
+
+    first commit
