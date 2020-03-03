@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "write the directory"
 echo "write the directory press the '.' for current directory"
 read WDIR
 cd "$WDIR"
@@ -94,7 +93,6 @@ CustomFeature2(){
 		ext="${filename##*.}"
 		if [[ $filename == "./$word.$ext" ]] ; then
 			mv $filename ./private/$replace.$ext
-			echo "hello"
 		fi
 	done
 }
