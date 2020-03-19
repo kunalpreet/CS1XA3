@@ -126,7 +126,7 @@ Execution:
       
         * first you will have to enter '.' for the directory then to 
           choose this feature enter "8" (number 8)
-        * enter the word you wish to look for in the file names
-        * enter the word you wish to replace it with
+        * Enter key word
+        * Enter the replacement word
 
 Reference: some code was taken from [[https://stackoverflow.com/questions/965053/extract-filename-and-extension-in-bash]]
