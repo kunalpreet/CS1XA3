@@ -34,11 +34,11 @@ p {
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #000ba5;
-	background: #ededed;
+	background: #f3f3f3;
 }
 
 .button {
-	background-color: #ededed;
+	background-color: #f3f3f3;
 	border: solid;
 	color: #444;
 	padding: 5px 8px;
@@ -57,7 +57,7 @@ p {
 	color: #444;
 	padding: 5px 8px;
 	text-align: center;
-	font-size: 15px;
+	font-size: 10px;
 	cursor: pointer;
   }
 
@@ -66,16 +66,15 @@ p {
   }
 
 #name h1 {
-	font-size: 1.95em;
+	font-size: 2.5em;
 	font-weight: 700;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 #name h2 {
-	font-size: 1.5em;
+	font-size: 2em;
 	margin-left: 2px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font co
 }
 
 #mainArea {
@@ -90,7 +89,7 @@ p {
 
 #headshot img {
 	width: 100%;
-	height: auto;c
+	height: auto;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 }
@@ -362,5 +361,3 @@ section:last-child {
 		opacity: 1;
 	}
 }
-
-
