@@ -1,5 +1,5 @@
 # CS1XA3
-# CS 1XA3 Project01 - <mathak1>
+# CS 1XA3 Project01 <mathak1>
 ## Usage
 Execute this script from project root with:
 chmod +x CS1XA3/Project01/project_analyze.sh
